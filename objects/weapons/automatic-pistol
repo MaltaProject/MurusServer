@@ -1,0 +1,8 @@
+Name:Automatic Pistol
+Desc:The Automatic Pistol is a basic weapon issued to civilians. The shape of the weapon makes it unwieldy and, inaccurate, and almost totally useless in combat.
+minDamage:5
+maxDamage:10
+accuracy:76
+hurtDesc:A small metal slug bounces off the shirt causing little damage.
+killDesc:Right on Target. The bullet plunges deep into the body.
+

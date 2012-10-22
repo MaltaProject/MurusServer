@@ -1,0 +1,32 @@
+Welcome to the Zaot Server
+
+If you are reading this file you are obviously a new immortal (Congrats!), or you are the proud admin of 
+the Zaos Server Code. This document will outline all of the features that Zaot currently offers as well as
+serving as a guide for future releases and update. Finally, this guide will also outline the steps to file
+bug reports, suggest features, donate code :), or just get in touch with the dev's (Me).
+
+---Current Features---
+~NPC
+	A NPC is a non playable character. These characters are controlled by the computer and help to guide 
+	the user through quests, role play, and to provide opponents for the user. NPC's can be created by 
+	entering the directory /NPC. Once in the NPC directory, add the name of the NPC that you wish to
+	create.
+~If an empty file names 'GOD' is placed in a users userProfile directory, the user becomes and administrator.
+This currently allows then to stop the server with the 'stop' command.
+~
+~
+~
+~
+---Needs Documentation---
+~[Heat:	RESOLVED] Dynamic rooms will allow for quick room creation
+
+---Future Features---
+~[Heat: HIGH] Finish store feature...
+
+~[Heat: HIGH] Ansi Color will be added for use in the map and as well for the fighting scenes and the prompt bar.
+	Prompt Bar
+	The prompt bar shows HP, moves, and level. Handles all user interaction. In order to highlight
+	information relevent to the user, the prompt bar should be green when all is ok, yellow
+	when moves or HP levels are low, and red when HP or move counts are near 0
+~[Heat: MED] Allow for the creation of Dynamic NPC's. This would allow rooms to be populated quickly
+~[Heat: MED] Implement map

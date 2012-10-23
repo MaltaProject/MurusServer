@@ -1,6 +1,0 @@
---MaltaProject--
-/check
-
-This file is used to check to make sure the database
-address is correct. Removal of this file will cause
-server to become inoperable.

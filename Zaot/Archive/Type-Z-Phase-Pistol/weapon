@@ -1,0 +1,6 @@
+minDamage:500
+maxDamage:1000
+accuracy:100
+hurtDesc:A beam of pure white light hits you!
+killDesc:A beam of pure white light engulfs you and you are no more.
+

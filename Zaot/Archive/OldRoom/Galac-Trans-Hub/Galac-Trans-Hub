@@ -1,0 +1,14 @@
+Galac Transport Hub
+	The spacious marble room stands at the centre of the galaxy, 
+a transport hub for the nine races of the Zaotion empire, and a symbol 
+of peace.  The whole room is decked in beautiful marble, the ceiling 
+being the most beautiful, a slab of black marble with the Zao 
+constalations engraved.  On the floor, an ornate compase rose points 
+in all directions.
+<endofdesc>
+[North:North-Hub]
+[East:East-Hub]
+[South:none]
+[West:West-Hub]
+[Up:none]
+[Down:Galac-Tickets]

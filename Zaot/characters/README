@@ -1,0 +1,6 @@
+---Malta Project---
+/characters
+-------------------
+This folder is used to display the list of characters an account has. The name of the text file is the 
+username of the account. Each individual line of the text file is a name of a character that is 
+controlled by said account.

@@ -1,0 +1,12 @@
+West Hub
+The room provides transportation to the Thael, hammii, and gorthane 
+quadrants.  A neat engraving reads 'thael' over the east arch, 
+'hammii' over the north arch and 'Gorthane' over the west arch.  
+Through each marble archway a transorb crackles softly.
+<endofdesc>
+[North:none]
+[East:Galac-Trans-Hub]
+[South:none]
+[West:none]
+[Up:none]
+[Down:none]
